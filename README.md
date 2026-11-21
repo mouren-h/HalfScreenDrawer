@@ -64,8 +64,6 @@ drawer.setOnBindViewListener(new HalfScreenDrawer.OnBindViewListener() {
 **3. 手动关闭（带缓慢下滑动画）**
 
 ```java
-drawer.gb();
-// 或
 drawer.closeWithAnimation();
 ```
 
